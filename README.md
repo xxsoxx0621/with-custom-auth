@@ -12,4 +12,4 @@ yarn dev
 pnpm dev
 ```
 
-link : https://with-custom-auth-af6p8tg2c-xxsoxx0621.vercel.app/login
+Second, click the link : https://with-custom-auth.vercel.app/login
